@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>212070dbb9fe034842d30e994a6d6278849dc893</id>
+  <author>fantasywangxg</author>
+  <deployer>GitHub</deployer>
+  <authorEmail>fantasywangxg@gmail.com</authorEmail>
+  <message>Initial commit</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2018-06-15T02:21:01.8638385Z</lastSuccessEndTime>
+  <receivedTime>2018-06-15T02:13:25.3034166Z</receivedTime>
+  <startTime>2018-06-15T02:20:59.9888397Z</startTime>
+  <endTime>2018-06-15T02:21:01.8638385Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

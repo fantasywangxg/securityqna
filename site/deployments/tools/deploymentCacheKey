@@ -1,0 +1,2 @@
+74.10611.3437.0
+-y --no-dot-deployment -r "D:\home\site\repository" -o "D:\home\site\deployments\tools" --basic --sitePath "D:\home\site\repository"

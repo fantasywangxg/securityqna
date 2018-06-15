@@ -1,0 +1,11 @@
+2018-06-15T02:20:59.8950883Z,Updating submodules.,51c76c9f-ae1a-4fa9-9f5b-b96909ddbbfe,0
+2018-06-15T02:20:59.9732588Z,Preparing deployment for commit id '212070dbb9'.,e36edbb1-3a60-493d-9fe9-ad6bf957b9f8,0
+2018-06-15T02:21:00.1610168Z,Generating deployment script.,bfe32232-1b57-4103-b739-0b832c296c2a,0
+	2018-06-15T02:21:00.2075896Z,Using cached version of deployment script (command: 'azure -y --no-dot-deployment -r "D:\home\site\repository" -o "D:\home\site\deployments\tools" --basic --sitePath "D:\home\site\repository"').,,0
+2018-06-15T02:21:00.2700882Z,Running deployment command...,8d8a6c68-57e7-42e1-a10d-23c4af147053,0
+	2018-06-15T02:21:00.2700882Z,Command: "D:\home\site\deployments\tools\deploy.cmd",,0
+	2018-06-15T02:21:01.4581174Z,Handling Basic Web Site deployment.,,0
+	2018-06-15T02:21:01.7076204Z,KuduSync.NET from: 'D:\home\site\repository' to: 'D:\home\site\wwwroot',,0
+	2018-06-15T02:21:01.7388848Z,Finished successfully.,,0
+2018-06-15T02:21:01.7857240Z,Running post deployment command(s)...,981370a7-9667-4f9d-b42e-11f4f8dc1592,0
+2018-06-15T02:21:01.8482256Z,Deployment successful.,e3023e74-22cb-4259-bef8-877caa5e989b,0
