@@ -202,7 +202,7 @@ namespace Microsoft.Bot.Sample.QnABot.CognitiveServices.QnAMaker
 
             //PromptDialog.Choice(context: context, resume: ResumeAndPostAnswer, promptOptions: promptOptions);
             //PromptDialog.Choice(context: context, resume: ResumeAndPostAnswer,prompt: "You may would like to look for this?", promptStyle :PromptStyle.Auto,descriptions:questions);
-            PromptDialog.Choice(context: context, resume: ResumeAndPostAnswer,prompt: "You may would like to look for this?",descriptions:questions,options:questions);
+            PromptDialog.Choice(context: context, resume: ResumeAndPostAnswer,prompt: "You may would like to look for this??",descriptions:questions,options:questions);
 
         }
 
